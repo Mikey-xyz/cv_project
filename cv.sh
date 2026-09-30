@@ -33,6 +33,7 @@ handle_arguments() {
 }
 
 main() {
+    show_intro
     while true; do
         clear
         check_terminal_size
