@@ -1,0 +1,20 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor / IDE
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.log
+*.swp
+*~
+
+# Environment / secrets
+.env
+.env.*
+
+# Bash
+.bash_history
