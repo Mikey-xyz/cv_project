@@ -1,4 +1,4 @@
-# Miguel Pereira — Cybersecurity CLI CV
+# Miguel Pereira - Cybersecurity CLI CV
 
 > A CV written entirely in Bash.
 
@@ -11,16 +11,25 @@ of my Bash/Linux skills.
 
 # CV related options
 ./cv.sh --about
+
 ./cv.sh --certifications
+
 ./cv.sh --contact
+
 ./cv.sh --education
+
 ./cv.sh --experience
+
 ./cv.sh --projects
+
 ./cv.sh --skills
+
 
 # System basic analysis tools options
 ./cv.sh --security
+
 ./cv.sh --system
+
 
 ## License
 
