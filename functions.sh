@@ -61,8 +61,8 @@ menu_options() {
     printf "%b\n" "${WHITE}[3] Education${RESET}"
     printf "%b\n" "${WHITE}[4] Experience${RESET}"
     printf "%b\n" "${WHITE}[5] Skills${RESET}"
-    printf "%b\n" "${WHITE}[6] Certifications${RESET}"
-    printf "%b\n" "${WHITE}[7] Projects${RESET}"
+    printf "%b\n" "${WHITE}[6] Languages${RESET}"
+    printf "%b\n" "${WHITE}[7] Certifications${RESET}"
 
     echo ""
 
