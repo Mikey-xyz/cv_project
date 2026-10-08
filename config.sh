@@ -7,6 +7,13 @@ linkedin="https://www.linkedin.com/in/miguel-pereira-862b13244/"
 phone="Available upon request"
 option=""
 
+GREEN="\033[92m"
+CYAN="\033[96m"
+WHITE="\033[97m"
+YELLOW="\033[93m"
+RED="\033[91m"
+RESET="\033[0m"
+
 terminal_width=0
 terminal_height=0
 

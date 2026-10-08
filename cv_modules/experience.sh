@@ -46,4 +46,15 @@ print_experience() {
 
     echo "│"
     echo "└────────────────────────────────────────────"
+
+    print_job "IPBRICK" "Software Developer Intern" "MAR 2022" "JUN 2022"
+
+    print_bullet "Adapted quickly to Linux (Ubuntu) environments, acquiring hands-on shell scripting skills to perform system navigation and basic task automation."
+
+    print_bullet "Learned business process automation using iPortalDoc, designing and implementing basic digital workflow solutions."
+
+    print_bullet "Gained foundational knowledge in PHP, developing basic web scripts and supporting internal application features."
+
+    echo "│"
+    echo "└────────────────────────────────────────────"
 }
